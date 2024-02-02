@@ -7,7 +7,7 @@
 ## unichen
 This is a function to convert units. Please use it for analysis of financial statements, etc.
 ### Inputs (required) 
-* `value_unit (str)` - Value before conversion
+* `value (str)` - Value before conversion
 ### Returns
 * `res (int)` - Value after conversion
 
