@@ -1,6 +1,6 @@
 # unichen
 [![python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue?style=plastic%26logo%3Dappveyor)](https://www.python.org/)
-[![license](https://img.shields.io/badge/license-MIT-purple?style=plastic%26logo%3Dappveyor)](https://github.com/yu10kami/kawazanyo/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-purple?style=plastic%26logo%3Dappveyor)](https://github.com/yu10kami/kawazanyo/blob/main/LICENSE)  
 **Unit conversion library for Japanese Yen**
 
 # Usage
